@@ -1,0 +1,5 @@
+com\techprimers\mongodb\springbootmongodbexample\repository\UserRepository.class
+com\techprimers\mongodb\springbootmongodbexample\config\MongoDBConfig.class
+com\techprimers\mongodb\springbootmongodbexample\SpringBootMongodbExampleApplication.class
+com\techprimers\mongodb\springbootmongodbexample\document\Users.class
+com\techprimers\mongodb\springbootmongodbexample\resource\UsersResource.class
